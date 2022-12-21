@@ -1,6 +1,4 @@
-## interview-rysyl frontend (react app)
-
-needs backend code for complete functioning (present in `backend` branch)
+## interview-rysyl backend (react app)
 
 ![ApplicationIdInput](https://user-images.githubusercontent.com/71624964/208830066-129fcfa4-5cdb-48c6-a30c-514a1a58d5cf.png)
 
