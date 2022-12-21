@@ -1,3 +1,10 @@
-## interview-rysyl frontend (react app)
+## interview-rysyl backend (react app)
 
-needs backend code for complete functioning (present in `interview-backend` branch)
+
+Runs at PORT `8080`
+
+`npm install` for installing required packages
+
+`npm run dev` for development mode
+
+`npm run start` for production mode
