@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box !important;
+}
+
+.App {
+  text-align: center;
+  height: 90vh;
+}
+
+.form-check-input {
+  accent-color: #fa7d0d !important;
+}
