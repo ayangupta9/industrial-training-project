@@ -1,0 +1,35 @@
+{
+  "name": "aws-stt-express-backend",
+  "version": "1.0.0",
+  "description": "Interview session backend express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.154.0",
+    "@aws-sdk/client-s3": "^3.131.0",
+    "@aws-sdk/lib-storage": "^3.131.0",
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "date-format": "^4.0.13",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "moment-timezone": "^0.5.37",
+    "morgan": "^1.10.0",
+    "openai": "^3.0.0",
+    "socket.io": "^4.5.1",
+    "ts-ebml": "^2.0.2",
+    "uuid": "^8.3.2",
+    "winston": "^3.8.1",
+    "winston-cloudwatch": "^6.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
